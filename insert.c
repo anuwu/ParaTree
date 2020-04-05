@@ -9,14 +9,7 @@
 
 void tokenize_add (struct tree *t)
 {
-	//char str[] = "Hello. My name is Anwesh Bhattacharya. Are you a lelouch or a lamperouge lelouch. Your butt is the softest in the world. I would love to lick you clean and pleasure you all day and night!" ;
-	//char str[] = "Hello Dear Saakshi. Today is April 14th, 2019. It's been 18 months since I've been with you now. Ideally, I would have liked to summarize all the good and sweet things that have happened in a letter. But since you asked for code, here you go. To be honest, I don't really feel a need to enlist all that has happened. I would like to talk about the present, because the present is nothing but an accumulation of all the hard work, love, effort put in the past, perhaps even pain. Thank you so much for supporting me during my DSA preparation. Your little doses of encouragement motivated me to finish studying early. And my exam went well! But at what cost? You becoming hangry after Gurukul nite? Hahahaha! Anyhow, one thing I would like to say is that we have become so stable as a couple that it's almost magical. At arbitrary moments of the day, I feel randomly grateful for having you, and feeling so secure in this. You have definitely made me a better and mature person. I can't wait to spend more gleeful days with you. Happy 18 months, Saakshi Dikshit. I love you!" ;
-
-	//char str[] = "Today is April 14th, 2019. It's been 18 months since I've been with you now. You wanted a code, here you go. Thank you so much for supporting me during my DSA preparation. Your little doses of encouragement motivated me to finish studying early. And my exam went well! But at what cost? You becoming hangry after Gurukul nite? Hahahaha! Anyhow, one thing I would like to say is that we have become so stable as a couple that it's almost magical. You have definitely made me a better and mature person. I can't wait to even happier with you. Happy 18 months, Saakshi Dikshit. I love you!" ;
-
-	//char str[] = "You are the best boo ever." ;
-
-	char str[] = "This is the FULL BLOWN love tree. I love you so much and miss you! I can't fit a big message here. Goodbye!" ;
+	char str[] = "If you've decoded this, you're good at reading trees. Why don't you try a longer sentence?" ;
 
 	char *tok, *word ;
 	int i = 1 ;

@@ -55,22 +55,22 @@ void print_random_message ()
 
 	int i ;
 	char *random[16] ;
-	random[0] = "KYA KAR RAHA HAIN?" ;
-	random[1] = "CRATE MAT TOR! HOW WILL YOU GET UP?" ;
-	random[2] = "YOU ARE A VERY TASTY SNACC" ;
-	random[3] = "EVEN IF YOU ARE SWEATY, I WOULD LICK YOU CLEAN. YUMMM!!!!" ;
+	random[0] = "WHAT ARE YOU DOING?" ;
+	random[1] = "DON'T BREAK THE CRATE" ;
+	random[2] = "SNACC IS VERY TASTY" ;
+	random[3] = "EVEN IF YOU ARE SWEATY, YOU SHOULD BATHE" ;
 	random[4] = "MY RELATIONSHIP IS DRIVING ME INSANE" ;
-	random[5] = "NOOOO PANWESH!! DON'T GOOOOO" ;
-	random[6] = "SENSITIVE LITTLE BABY BUNNY" ;
-	random[7] = "I'LL GIVE YOU WONG HUNDRED MILLION THOUSAND DOLLAH" ;
-	random[8] = "ANWESH JAAKE DSA PADH. ITNI TENSION KYU LETA HAIN?" ;
-	random[9] = "YOUR GOATEE IS LOOKING VERY SEXY TODAY" ;
-	random[10] = "YOUR BUTT IS THE BEST AND SOFTEST IN THE WORLD!" ;
-	random[11] = "I MISS MY HOME (YOUR SNACCY BOOBS)" ;
-	random[12] = "SPEED ME DOSO BEES DI CHAALAN" ;
-	random[13] = "I FUCKING HATE NITIN CHATURVEDI" ;
-	random[14] = "ANWESH TU KYA BOL RAHA HAIN?" ;
-	random[15] = "SNAC, SNACC, SNACCK, SNACCKSHI" ;
+	random[5] = "DON'T GOOOOO" ;
+	random[6] = "BABY BUNNY" ;
+	random[7] = "I'LL GIVE YOU ONE HUNDRED MILLION THOUSAND DOLLARS" ;
+	random[8] = "STUDY DATA STRUCTURES" ;
+	random[9] = "YOUR GOATEE IS LOOKING GOOD" ;
+	random[10] = "YOU'RE A SOFTBOY" ;
+	random[11] = "I MISS MY HOME." ;
+	random[12] = "RUNNING AT 220 KMPH" ;
+	random[13] = "TAKE MY LIFE, GIVE IT BACK" ;
+	random[14] = "WHAT ARE YOU SAYING?" ;
+	random[15] = "SNAC, SNACC, SNACC" ;
 
 	srand(time(0)) ;
 	i = rand() % 16 ;

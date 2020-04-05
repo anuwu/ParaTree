@@ -14,8 +14,8 @@ void display_menu ()
 	*/
 
 	printf ("Choose what you want to do (Enter wrong input just to see what happens. Life is a box of chocolates. Be surprised \"each time\")\n") ;
-	printf ("1. Explore the love tree\n") ;
-	printf ("2. Print the love tree\n") ;
+	printf ("1. Explore the ParaTree\n") ;
+	printf ("2. Print the ParaTree\n") ;
 	printf ("3. See the hidden message \n") ;
 	printf ("4. Exit\n") ;
 }
