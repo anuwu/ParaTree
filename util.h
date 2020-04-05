@@ -10,6 +10,7 @@ void all_bal (struct tree *t , struct node *ptr) ;
 void just_enter () ;
 void enter () ;
 
+
 int max (int x , int y) ;
 int ret_lh (struct node *ptr) ;
 int ret_rh (struct node *ptr);

@@ -6,7 +6,6 @@
 #include "insert.h"
 
 
-
 void tokenize_add (struct tree *t)
 {
 	char str[] = "If you've decoded this, you're good at reading trees. Why don't you try a longer sentence?" ;

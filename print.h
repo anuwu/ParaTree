@@ -7,6 +7,7 @@ void print_space_node (struct node *ptr) ;
 void print_node (struct node* ptr) ;
 void print_node_detail (struct node *ptr) ;
 
+
 void inorder (struct node* ptr) ;
 
 //function needed from dll.h

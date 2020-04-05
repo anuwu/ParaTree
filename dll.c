@@ -283,6 +283,7 @@ void print_all_dll_space_edgewise (struct dll *list , struct dll *prntlist)
 			print_space (ptr_space - prev_space - 1) ;
 			printf ("\\") ; 
 		}
+
 		prev = ptr ;
 		ptr = ptr->next ;
 	}

@@ -57,6 +57,7 @@ int main ()
 		else
 			option = atoi(buf) ;
 
+
 		switch (option)
 		{
 			case 1 :

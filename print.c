@@ -39,6 +39,7 @@ void print_tree_vertical (struct tree *t)
 	print_space (t->levellists->front->space) ;
 	print_node (t->levellists->front->nodeptr) ;
 	printf ("\n") ;
+
 	
 	for (i = 1 ; i <= maxlevel ; i++)
 	{

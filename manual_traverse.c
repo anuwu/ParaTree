@@ -20,6 +20,7 @@ void print_manual_traverse_node (struct tree *t , struct node *ptr)
 {
 	int maxspace , lenp , lenlc ;
 
+
 	if (ptr == t->root)
 		{
 			print_space (10) ;

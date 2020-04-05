@@ -29,7 +29,7 @@ struct dll
 struct dllnode
 {
 	struct node *nodeptr ;
-	int space ;		//by defaut -1
+	int space ;			//by defaut -1
 
 	struct dllnode *next ;
 	struct dllnode *prev ;

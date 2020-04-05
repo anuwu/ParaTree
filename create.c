@@ -2,6 +2,7 @@
 #include "data.h"
 #include "create.h"
 
+
 struct tree* create_tree ()
 {
 	struct tree* t ;

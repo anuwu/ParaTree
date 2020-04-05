@@ -3,6 +3,7 @@ void create_all_simple_levellists (struct tree *t) ;
 int create_all_space_levellists_edgewise (struct tree *t , struct node *ptr , char c , int level , int init_space) ;
 
 //Function needed from util.h
+
 int max (int x , int y) ;
 void just_enter () ;
 int get_nodelength (struct node *ptr) ;

@@ -16,6 +16,7 @@ util.o : util.c
 print.o : print.c
 	gcc -c print.c
 
+
 manual_traverse.o : manual_traverse.c
 	gcc -c manual_traverse.c
 

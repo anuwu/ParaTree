@@ -12,6 +12,7 @@ int ret_strlen (struct node *ptr)
 		return strlen (ptr->str) ;
 }
 
+
 int max (int x , int y)
 {
 	if (x > y)
